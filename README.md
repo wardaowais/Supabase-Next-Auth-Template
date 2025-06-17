@@ -267,6 +267,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 | `NEXT_PUBLIC_GOOGLE_CLIENT_ID` | Google OAuth client ID | ❌ Optional |
 | `NEXT_PUBLIC_APPLE_CLIENT_ID` | Apple OAuth client ID | ❌ Optional |
 
+
+Need to update recaptcha just
+
 ## 🛠️ Customization
 
 ### Styling
